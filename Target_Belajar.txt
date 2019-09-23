@@ -3,3 +3,5 @@ Selasa : SIM(Sistem Informasi Manajemen)
 
 Kamis :GNS3
 Jumat : Triger DB
+sabtu : inne : olahraga
+minggu : inne : travelling
