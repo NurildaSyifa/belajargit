@@ -6,3 +6,6 @@ Kamis :GNS3
 Jumat : Triger DB
 Sabtu :Nurilda Tugas kelompok UI
 Minggu : Nurilda Tugas Kelompok Basis Data Lanjut
+
+
+ini file branch
