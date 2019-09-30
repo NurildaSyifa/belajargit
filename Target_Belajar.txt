@@ -1,8 +1,20 @@
+
+Senin : GIT (Branch,Merge)
+Senin : Desain Antarmuka (Wireframe)
+
 Senin : Git
+
 Selasa : SIM(Sistem Informasi Manajemen)
 
 Kamis :GNS3
 Jumat : Triger DB
+
+Sabtu :Nurilda Tugas kelompok UI
+Minggu : Nurilda Tugas Kelompok Basis Data Lanjut
+
+
+ini file branch
+
 sabtu : inne : olahraga
 minggu : inne : travelling
 
